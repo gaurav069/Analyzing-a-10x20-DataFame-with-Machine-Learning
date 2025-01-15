@@ -26,8 +26,8 @@ This project demonstrates the creation of a meaningful **10x20 DataFrame** and t
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/gaurav069/Analyzing-a-10x20-DataFame-with-Machine-Learning.git
-   cd Analyzing-a-10x20-DataFame-with-Machine-Learning
+   git clone https://github.com/gaurav069/Analyzing_a_10x20_DataFrame_with_Machine_Learning.git
+   cd Analyzing_a_10x20_DataFrame_with_Machine_Learning
    ```
 2. Install required dependencies:
    ```bash
